@@ -132,10 +132,10 @@ class Racecar extends Car implements Comparable {
     }
 
     public int compareTo(Object o) {
-        // if(this.speed > o.speed){
+        if(this.speed > o.speed){
 
-        // }
-        // throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
+        }
+        throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
         return 0;
     }
 
