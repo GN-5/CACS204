@@ -94,7 +94,6 @@ public class CollectionDemo {
         names.add("Gaurab");
         names.add("Gaurab");
         names.add("Gaurab");
-        names.add("Gaurab");
         System.out.println(names);
 
     }
